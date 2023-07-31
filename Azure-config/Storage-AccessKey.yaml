@@ -1,0 +1,7 @@
+key1:
+  Key: DefaultEndpointsProtocol=https;AccountName=adfusage;AccountKey=RrxPCmFonFyhs/dZUhDEoSevRGEZ3MkzHjN9NacqlSQDfo6Rh7WtErh5tEIWp2YfWllRdaQb/bWi+AStw7PKMw==;EndpointSuffix=core.windows.net
+  Connection String: DefaultEndpointsProtocol=https;AccountName=adfusage;AccountKey=RrxPCmFonFyhs/dZUhDEoSevRGEZ3MkzHjN9NacqlSQDfo6Rh7WtErh5tEIWp2YfWllRdaQb/bWi+AStw7PKMw==;EndpointSuffix=core.windows.net
+
+key2:
+  Key: DefaultEndpointsProtocol=https;AccountName=adfusage;AccountKey=RrxPCmFonFyhs/dZUhDEoSevRGEZ3MkzHjN9NacqlSQDfo6Rh7WtErh5tEIWp2YfWllRdaQb/bWi+AStw7PKMw==;EndpointSuffix=core.windows.net
+  Connection String: DefaultEndpointsProtocol=https;AccountName=adfusage;AccountKey=fVdhKMBpm1tctUPz5qrwoV1DA0/aR5xZjK71LH0It2JVWIoZklsGWkpnES4xuwKd83cidTR83+PM+AStRFSaPA==;EndpointSuffix=core.windows.net
