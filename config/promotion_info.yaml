@@ -1,0 +1,43 @@
+Promotion1:
+  ID : 1
+  Name: New Year Holiday
+  Description: Promotion for New Year Holiday
+  StartDate: 01-01
+  EndDate: 01-05
+
+Promotion2:
+  ID : 2
+  Name : Valentine Celebration
+  Description: Promotion for Love
+  StartDate : 12-02
+  EndDate: 20-02
+
+Promotion3:
+  ID : 3
+  Name : April Fool's Day
+  Description : Happy Fool day
+  StartDate: 01-04
+  EndDate : 02-04
+
+Promotion4:
+  ID : 4
+  Name: Children's Day
+  Description : Happy life for child
+  StartDate : 01-06
+  EndDate : 02-06
+
+Promotion5:
+  ID : 5
+  Name : Summer Holidays
+  Description: Enjoy with the Summer
+  StartDate : 20-06
+  EndDate : 20-07
+
+Promotion6:
+  ID : 6
+  Name: Christmas Holidays
+  Description: Biggest Holiday in Year
+  StartDate: 20-12
+  EndDate: 25-12
+
+

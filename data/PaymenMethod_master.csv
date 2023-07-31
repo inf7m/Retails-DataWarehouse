@@ -1,0 +1,6 @@
+PaymentMethodKey, PaymentMethodDescription
+1, Paypal
+2, Credit Card - Mastercard
+3, Credit Card - Visa
+4, Credit Card - JCB
+5, Debit Card - Associated with Payment Application
