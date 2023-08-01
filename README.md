@@ -4,7 +4,7 @@
 
 ## Considering as a Case Study for interview and learning
 
-### In this project i use the Kimball Techniques - Bottom to TOP approach. By building from dimension and then the fact table as a business process.
+### In this project i used the Kimball Techniques - "Bottom to TO"P approach. By building from dimension and then the fact table as a business process.
 
 # End to End architecture
 ![alt text](https://github.com/inf7m/Retails-DataWarehouse/blob/main/Images/end2endarchh.png) 
