@@ -1,4 +1,4 @@
-# Master data for Independent-Dimension Talbe
+# Master data for Independent-Dimension Table
 
 ## Independent-Dimension Table
 - ### Cashier-Dim
