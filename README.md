@@ -1,1 +1,20 @@
-# RetailDW
+# Retail Store - Data Warehouse Project
+
+## Self-Promotion Project
+
+## Considering as a Case Study for interview and learning
+
+### In this project i use the Kimball Techniques - Bottom to TOP approach. By building from dimension and then the fact table as a business process.
+
+# End to End architecture
+
+# Data Warehouse Schema Overview
+
+
+## Technologies involve: 
+### - Oracle Database
+### - Docker
+### - Red Hat Enterprose Linux 9
+### - Azure - using as PaaS - BLOB container files storage
+### BI: Visualiation Data with python and Microsoft BI
+### IDE: pyCharm, DataGrip
