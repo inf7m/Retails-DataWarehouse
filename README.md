@@ -9,7 +9,7 @@
 # End to End architecture
 ![alt text](https://github.com/inf7m/Retails-DataWarehouse/blob/main/Images/end2endarchh.png) 
 # Data Warehouse Schema Overview
-![alt text](![alt text](https://github.com/inf7m/Retails-DataWarehouse/blob/main/Images/end2endarchh.png) ) 
+![alt text](https://github.com/inf7m/Retails-DataWarehouse/blob/main/Images/warehouse-schema.png)
 
 
 ## Technologies involve: 
