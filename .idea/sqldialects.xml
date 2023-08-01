@@ -2,7 +2,6 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/Database-Packages/DateDim-Package.sql" dialect="Oracle" />
-    <file url="file://$PROJECT_DIR$/Job-Schedule/Product-BronzeTable.sql" dialect="GenericSQL" />
     <file url="file://$PROJECT_DIR$/SQL_FUNCTIONS/DateDimension_Functions/fill_Up_DateDimension.sql" dialect="Oracle" />
   </component>
 </project>
