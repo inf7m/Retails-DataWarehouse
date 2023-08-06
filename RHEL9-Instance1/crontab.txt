@@ -1,0 +1,2 @@
+50 23 * * * python /BatchOperations/createBusinessProcess.py
+55 23 * * * ./SQL-LOADER-factTable.ctl
