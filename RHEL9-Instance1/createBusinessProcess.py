@@ -4,7 +4,7 @@ import configparser
 import random
 
 configuration = configparser.ConfigParser
-csvWriter = csv.writer()
+
 
 
 def getCurrentDate() -> datetime.date:
@@ -12,11 +12,10 @@ def getCurrentDate() -> datetime.date:
 
 
 def outputFilePath() -> str:
-    stringFilePath = "/BusinessProcess/BusinessProcess-" + str(getCurrentDate())+'.csv'
+    stringFilePath = "/BusinesspProcess/" + str(getCurrentDate())+'.csv'
     return stringFilePath
 
 
-csvWriter = csv.writer(outputFilePath(), 'a')
 
 
 def createBusinessProcess() -> list:
@@ -31,7 +30,7 @@ def createBusinessProcess() -> list:
                   random.randint(0, 44445), random.randint(209, 334), random.randint(1, 5)]
     return resultRows
 
-
 with open(outputFilePath(), 'a') as BusinessProcess_Output:
+    csvWriter = csv.writer(BusinessProcess_Output, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
     for i in range(1, 2000):
         csvWriter.writerow(createBusinessProcess())
