@@ -1,0 +1,7 @@
+SAS:
+    ConnectionString: BlobEndpoint=https://adfusage.blob.core.windows.net/;QueueEndpoint=https://adfusage.queue.core.windows.net/;FileEndpoint=https://adfusage.file.core.windows.net/;TableEndpoint=https://adfusage.table.core.windows.net/;SharedAccessSignature=sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2023-08-24T11:46:22Z&st=2023-08-17T03:46:22Z&sip=0.0.0.0&spr=https&sig=yDdLtI3IIC5zDsIc%2BYqse9nmUA8dmgNMrSvRF3NzeK0%3D
+    SAS_Token: ?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2023-08-24T11:46:22Z&st=2023-08-17T03:46:22Z&sip=0.0.0.0&spr=https&sig=yDdLtI3IIC5zDsIc%2BYqse9nmUA8dmgNMrSvRF3NzeK0%3D
+    BLOB_SAS_URL: https://adfusage.blob.core.windows.net/?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2023-08-24T11:46:22Z&st=2023-08-17T03:46:22Z&sip=0.0.0.0&spr=https&sig=yDdLtI3IIC5zDsIc%2BYqse9nmUA8dmgNMrSvRF3NzeK0%3D
+    FILE_SAS_URL: https://adfusage.file.core.windows.net/?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2023-08-24T11:46:22Z&st=2023-08-17T03:46:22Z&sip=0.0.0.0&spr=https&sig=yDdLtI3IIC5zDsIc%2BYqse9nmUA8dmgNMrSvRF3NzeK0%3D
+    QUEUE_SAS_URL: https://adfusage.queue.core.windows.net/?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2023-08-24T11:46:22Z&st=2023-08-17T03:46:22Z&sip=0.0.0.0&spr=https&sig=yDdLtI3IIC5zDsIc%2BYqse9nmUA8dmgNMrSvRF3NzeK0%3D
+    TABLE_SAS_URL: https://adfusage.table.core.windows.net/?sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2023-08-24T11:46:22Z&st=2023-08-17T03:46:22Z&sip=0.0.0.0&spr=https&sig=yDdLtI3IIC5zDsIc%2BYqse9nmUA8dmgNMrSvRF3NzeK0%3D
